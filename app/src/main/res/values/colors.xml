@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#BE9FE1</color>
+    <color name="accent_purple">#936B9F</color>
+    <color name="back_purple">#80BE9FE1</color>
+    <color name="grey_back">#EEEEEE</color>
+    <color name="grey_back_item">#F3F3F3</color>
+    <color name="black_text">#CC000000</color>
+    <color name="black_back">#59000000</color>
+    <color name="red">#F14434</color>
+    <color name="note_yellow">#FAEDCB</color>
+    <color name="note_green">#D9C9E4DE</color>
+    <color name="note_blue">#D9C6DEF1</color>
+    <color name="note_pink">#D9F2C6DE</color>
+    <color name="note_peach">#D9F7D9C4</color>
+</resources>
