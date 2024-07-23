@@ -1,2 +1,6 @@
-**Notes**
-![Creative Chatting App Logo](https://github.com/user-attachments/assets/ee865aed-31eb-402b-a629-23a9c7c19f0b)
+<p align="center">
+  <img ![file](https://github.com/user-attachments/assets/d915b9b9-2d8c-48b5-a9f4-ada01793e8ab) />
+  **Notes**
+</p>
+
+
