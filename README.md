@@ -22,10 +22,10 @@
   <h3>Wireframes:</h3>
   <table>
   <tr>
-    <th><img src="https://github.com/user-attachments/assets/c7291601-5519-49a8-8cad-db50d841358c" alt="file" height="600"></th>
-    <th><img src="https://github.com/user-attachments/assets/902787e6-d992-4c3b-8cce-ac76e308362b" alt="file" height="600"></th>
-    <th><img src="https://github.com/user-attachments/assets/0c6871aa-81cb-41b7-9849-d830319f16db" alt="file" height="600"></th>
-    <th><img src="https://github.com/user-attachments/assets/b004ec38-7992-4c73-9171-129d85631b6c" alt="file" height="600"></th>
+    <th><img src="https://github.com/user-attachments/assets/c7291601-5519-49a8-8cad-db50d841358c" alt="file" height="550"></th>
+    <th><img src="https://github.com/user-attachments/assets/902787e6-d992-4c3b-8cce-ac76e308362b" alt="file" height="550"></th>
+    <th><img src="https://github.com/user-attachments/assets/0c6871aa-81cb-41b7-9849-d830319f16db" alt="file" height="550"></th>
+    <th><img src="https://github.com/user-attachments/assets/b004ec38-7992-4c73-9171-129d85631b6c" alt="file" height="550"></th>
   </tr>
 </div>
 
