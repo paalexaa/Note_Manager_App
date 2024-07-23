@@ -1,9 +1,2 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d915b9b9-2d8c-48b5-a9f4-ada01793e8ab" alt="file" width="100" height="100" />
-  <br/>
-  #Notes
-</p>
-
-
-
-<hr/>
+![file](https://github.com/user-attachments/assets/1778fe8b-e3c0-46ec-b688-e17e41648be5 =100x100)
+#Notes
