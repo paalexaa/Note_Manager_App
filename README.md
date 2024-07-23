@@ -18,4 +18,14 @@
 </ul>
 </div>
 
+<div>
+  <h3>Wireframes:</h3>
+  <table>
+  <tr>
+    <th><img src="https://github.com/user-attachments/assets/c7291601-5519-49a8-8cad-db50d841358c"></th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+</div>
+
 
